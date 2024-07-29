@@ -26,6 +26,8 @@ Ensure the following are installed:
 
 ## Conclusions
 **Sequence Retention:** 7.69-73.83% of non-chimeric sequences were retained after quality filtering, indicating suboptimal data quality.
+
 **Correlation with Humidity:** Positive correlation between soil relative humidity and prokaryotic diversity (Spearman's test statistic: 0.4255, p-value: 0.0152).
+
 **ASV Detection:** 524 ASVs detected in the study.
 This analysis provides insights into the microbial community structure and its relationship with environmental factors such as soil moisture.
